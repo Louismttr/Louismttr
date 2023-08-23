@@ -1,6 +1,4 @@
 ### <h1 align="center">¡Hello World! 👋 </h1>
----
- [![](https://visitcount.itsvg.in/api?id=Louismttr&label=Profile%20Views&color=5&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 <img align = "right" alt="coding" width="320" height="110" src=https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif>
