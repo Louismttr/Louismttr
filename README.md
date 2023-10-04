@@ -3,7 +3,7 @@
 # 💫 About Me:
 <img align = "right" alt="coding" width="320" height="110" src=https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif>
 
-🌱 Studying...<br>💻 Systems Engineer student<br>👩‍🏫 I work as a private teacher <br> 🥑 AvocadoLover <br> 🇳🇮 "Saquenme de la UNI" 
+🌱 Studying...<br>💻 Systems Engineer student<br>👩‍🏫 I work as a private teacher <br> 🥑 AvocadoLover <br> 🇳🇮 UNI-"#Saquenme de la UNI" 
 
 
 
