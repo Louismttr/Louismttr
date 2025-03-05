@@ -1,4 +1,6 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines= Hello Wordl 👋;Welcome!)
+# Hello Wordl 👋!
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines= Hey all! 👋; From Nicaragua,;building one line at a time;Welcome!)
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 # 💫 About Me:
 <img align = "right" alt="coding" width="355" height="130" src=https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif>
